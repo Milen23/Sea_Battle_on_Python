@@ -254,7 +254,5 @@ class Game:
         self.greet()
         self.loop()
 
-# Ниже распологается тестовый код
-
 g = Game()
 g.start()
